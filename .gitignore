@@ -1,5 +1,4 @@
 /repo
 !/lib/build/build.bat
-/lib/build/*
 /lib/bin
 /lib/obj
