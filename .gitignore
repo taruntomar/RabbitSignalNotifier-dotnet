@@ -1,0 +1,5 @@
+/repo
+!/lib/buid/build.bat
+/lib/build/*
+/lib/bin
+/lib/obj

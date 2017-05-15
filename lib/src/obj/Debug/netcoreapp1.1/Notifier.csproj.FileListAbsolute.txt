@@ -1,0 +1,8 @@
+D:\My projects\dev\Notifier\Notifier-in-csharp\lib\src\bin\Debug\netcoreapp1.1\Notifier.deps.json
+D:\My projects\dev\Notifier\Notifier-in-csharp\lib\src\bin\Debug\netcoreapp1.1\Notifier.runtimeconfig.json
+D:\My projects\dev\Notifier\Notifier-in-csharp\lib\src\bin\Debug\netcoreapp1.1\Notifier.runtimeconfig.dev.json
+D:\My projects\dev\Notifier\Notifier-in-csharp\lib\src\bin\Debug\netcoreapp1.1\Notifier.dll
+D:\My projects\dev\Notifier\Notifier-in-csharp\lib\src\bin\Debug\netcoreapp1.1\Notifier.pdb
+D:\My projects\dev\Notifier\Notifier-in-csharp\lib\src\obj\Debug\netcoreapp1.1\Notifier.AssemblyInfo.cs
+D:\My projects\dev\Notifier\Notifier-in-csharp\lib\src\obj\Debug\netcoreapp1.1\Notifier.dll
+D:\My projects\dev\Notifier\Notifier-in-csharp\lib\src\obj\Debug\netcoreapp1.1\Notifier.pdb
